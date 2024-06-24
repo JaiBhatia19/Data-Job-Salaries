@@ -1,5 +1,7 @@
 # Data Job Salaries Dashboard
 
+![0_2fBIH8UQ8qij8fE7](https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/c3a8e932-aba4-4c9e-ae83-ccbc02bbc446)
+
 ## Project Overview
 This project involves creating an interactive Tableau dashboard to analyze salaries for various data-related jobs (e.g., Data Analyst, Data Scientist) across different locations, experience levels, and employment types. The dashboard provides a comprehensive view of salary trends and distributions.
 

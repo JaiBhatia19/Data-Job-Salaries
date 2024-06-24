@@ -1,4 +1,4 @@
-# Data-Job-Salaries-Dashboard
+# Data Job Salaries Dashboard
 
 ## Project Overview
 This project involves creating an interactive Tableau dashboard to analyze salaries for various data-related jobs (e.g., Data Analyst, Data Scientist) across different locations, experience levels, and employment types. The dashboard provides a comprehensive view of salary trends and distributions.
